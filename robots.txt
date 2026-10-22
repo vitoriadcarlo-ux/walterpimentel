@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://walterpimentel.com.br/sitemap.xml
